@@ -12,7 +12,7 @@ from statsmodels.tools.tools import add_constant
 from statsmodels.stats.outliers_influence import variance_inflation_factor
 
 st.set_page_config(page_title="Maternal Health Risk — Age Predictor", layout="wide")
-st.title("🤰 Maternal Health Risk — Age Prediction (OLS Regression)")
+st.title(" Maternal Health Risk — Age Prediction (OLS Regression)")
 
 # ─────────────────────────────────────────
 # 1. DATA UPLOAD

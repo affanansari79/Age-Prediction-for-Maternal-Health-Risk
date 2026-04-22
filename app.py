@@ -8,7 +8,7 @@ from sklearn.preprocessing import StandardScaler
 from sklearn.metrics import mean_absolute_error, mean_squared_error, r2_score
 
 st.set_page_config(page_title="Maternal Health Risk - Age Predictor", layout="wide")
-st.title("Maternal Health Risk - Age Prediction (OLS Regression)")
+st.title("Biological age prediction in maternal health risk using OLS regression")
 
 # 1. DATA UPLOAD
 st.sidebar.header("Upload Dataset")
